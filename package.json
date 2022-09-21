@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/node": "latest",
+    "typescript": "latest"
+  },
+  "packageManager": "yarn@3.2.3"
+}
