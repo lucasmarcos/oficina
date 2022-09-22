@@ -1,7 +1,13 @@
 {
   "dependencies": {
+    "dotenv": "latest",
+    "express": "latest"
+  },
+  "devDependencies": {
+    "@types/express": "latest",
     "@types/node": "latest",
     "typescript": "latest"
   },
-  "packageManager": "yarn@3.2.3"
+  "packageManager": "yarn@3.2.3",
+  "type": "module"
 }
